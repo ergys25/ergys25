@@ -1,16 +1,32 @@
-### Hi there 👋
+# Ergys Hila - Computer Science Graduate
 
-<!--
-**ergys25/ergys25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Location:** Woodside, NY 11377    
+📧 **Email:** ergys.hila92@gmail.com  
+🔗 [LinkedIn](<LINKEDIN_PROFILE_LINK>) | [GitHub](<GITHUB_PROFILE_LINK>)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Profile
+
+I'm a  B.A. graduate in Computer Science, passionate about leveraging technology to align business strategies with software development solutions. With a focus on optimizing operational impact while being resource-efficient, I specialize in diagnosing technical issues, leading end-to-end technical projects, and executing diverse software development tasks.
+## Core Competencies
+
+
+
+## Education
+
+### Bachelor of Arts (B.A.) in Computer Science, 2022
+**Queens College, City University of New York, Queens, New York**
+
+Relevant Coursework:
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Databases
+- Algorithms and Data Structures
+- Computer Architecture
+- Cloud Computing
+- Genetic Algorithms
+
+---
+
+Feel free to reach out for collaborations, discussions, or inquiries. Let's connect and innovate together!
