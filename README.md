@@ -1,6 +1,5 @@
 # Ergys Hila - Computer Science Graduate
-
-🌟 **Location:** Woodside, NY 11377    
+   
 📧 **Email:** ergys.hila92@gmail.com  
 🔗 [LinkedIn](<LINKEDIN_PROFILE_LINK>) | [GitHub](<GITHUB_PROFILE_LINK>)
 
