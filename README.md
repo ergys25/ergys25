@@ -1,4 +1,6 @@
 # Ergys Hila - Computer Science Graduate
+
+<img src="https://myreadme.vercel.app/api/embed/ergys25?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
    
 📧 **Email:** ergys.hila92@gmail.com  
 🔗 [LinkedIn](<LINKEDIN_PROFILE_LINK>) | [GitHub](<GITHUB_PROFILE_LINK>)
