@@ -37,3 +37,6 @@ Feel free to reach out for collaborations, discussions, or inquiries. Let's conn
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ergys25&theme=tokyonight" alt="mystreak"/>
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ergys25&theme=react-dark&hide_border=true&area=true)
+
+
