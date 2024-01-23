@@ -36,6 +36,7 @@ Feel free to reach out for collaborations, discussions, or inquiries. Let's conn
 
 <img src="https://myreadme.vercel.app/api/embed/ergys25?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ergys25&theme=tokyonight" alt="mystreak"/>
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ergyshila25)](https://github.com/ergys25/github-readme)
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
