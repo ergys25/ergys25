@@ -33,11 +33,6 @@ Relevant Coursework:
 Feel free to reach out for collaborations, discussions, or inquiries. Let's connect and innovate together!
 ---
 
-
-<img src="https://myreadme.vercel.app/api/embed/ergys25?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ergys25&theme=tokyonight" alt="mystreak"/>
-
-
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
