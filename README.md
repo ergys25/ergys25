@@ -3,7 +3,7 @@
 
    
 📧 **Email:** ergys.hila92@gmail.com  
-🔗 [LinkedIn](<https://www.linkedin.com/in/ergys-hila-904813131>)
+🔗 **Linkedin:** [LinkedIn](<https://www.linkedin.com/in/ergys-hila-904813131>)
 
 ---
 
