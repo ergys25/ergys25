@@ -32,8 +32,3 @@ Relevant Coursework:
 
 Feel free to reach out for collaborations, discussions, or inquiries. Let's connect and innovate together!
 ---
-
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
----
-
